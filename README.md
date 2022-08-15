@@ -26,9 +26,16 @@ To be more specific, the following items are included:
 
 3. Download the .bar file
 ```
-wget https://raw.githubusercontent.com/filemancp4i/ibmace/main/demo.bar
+https://raw.githubusercontent.com/filemancp4i/ibmace/main/acedemo.bar
 ```
 
-4. Upload .bar file to ACE Dashboard and create integration server
+4. Open the url for the Dashboard Server. Two options. Same result
+    - Go to cpd home page.
+    - Go to OCP route page, find the dashboard url.
+
+5. Create integration server
+    - Create Server on the Dashboard
+    - QuickStart
+    - Upload .bar file to ACE Dashboard and 
 
 5. Test with PostMan
