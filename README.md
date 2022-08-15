@@ -17,7 +17,12 @@ To be more specific, the following items are included:
 1. Modify  multi-tenancy-gitops/0-bootstrap/single-cluster/2-services/kustomization.yaml. Uncomment line 
     - argocd/operators/ibm-ace-operator.yaml
 
-2. Login to OCP, find the IBM App Connect under Installed Operators within tools. Click on Create Dashboard. Accept License. Create
+2. Install Dashboard
+    - Login to OCP, find the IBM App Connect under Installed Operators within tools. 
+    - Click on Create Dashboard. 
+    - Accept License. 
+    - Storage set to ephemeral
+    - Create
 
 3. Download the .bar file
 ```
