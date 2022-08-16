@@ -43,6 +43,7 @@ https://github.com/filemancp4i/ibmace/blob/main/acedemo.bar
     - QuickStart with toolkit
     - Upload .bar file to ACE Dashboard
     - Next
+    - Skip creating configuration by clicking on next
     - Create
     - Wait
 
