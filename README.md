@@ -40,7 +40,7 @@ https://github.com/filemancp4i/ibmace/blob/main/acedemo.bar
 
 5. Create integration server
     - Create Server on the Dashboard
-    - QuickStart
+    - QuickStart with toolkit
     - Upload .bar file to ACE Dashboard
     - Next
     - Create
