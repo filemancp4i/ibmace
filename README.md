@@ -25,7 +25,7 @@ To be more specific, the following items are included:
     - Login to OCP, find the IBM App Connect under Installed Operators within tools. 
     - Click on Create Dashboard. 
     - Accept License. 
-    - Storage set to ephemeral (or ibmc-file-gold-gid)
+    - Storage set to ephemeral (or persistent-claim then set class to ibmc-file-gold-gid)
     - Create
     - Wait
 
