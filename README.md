@@ -23,6 +23,7 @@ To be more specific, the following items are included:
     - Wait
 4. Install Dashboard
     - Login to OCP, find the IBM App Connect under Installed Operators within tools. 
+    - Set project to "tools"
     - Click on Create Dashboard. 
     - Accept License. 
     - Storage set to ephemeral (or persistent-claim then set class to ibmc-file-gold-gid)
